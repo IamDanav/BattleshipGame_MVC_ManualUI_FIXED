@@ -1,0 +1,8 @@
+NEW FEATURES
+
+1. Manual Ship Placement: the player places ships by clicking cells.
+2. Orientation Button: horizontal or vertical ship placement.
+3. Start Battle Button: battle starts after all ships are placed.
+4. Battleship Style UI: light blue water board with dot markers.
+5. MVC Improvement: Model, View, and Controller are separated.
+6. Computer AI: after a hit, the computer tries nearby cells first.
